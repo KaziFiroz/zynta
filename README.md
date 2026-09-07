@@ -182,8 +182,8 @@ This is a cleaned-up snapshot prepared for sharing publicly:
 
 ## 📝 License
 
-Built for educational purposes as a group coursework/portfolio project.
+Built for educational purposes as a group coursework project.
 
 ## 🙋 Author
 
-**Your Name** — built collaboratively as a group project. Feel free to reach out via [LinkedIn](#) or [email](#).
+**Firoz Rahman Kazi** — built collaboratively as a group project. Feel free to reach out.
